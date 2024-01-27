@@ -41,7 +41,7 @@ explorando conceitos de design, interatividade e usabilidade para proporcionar u
 
 <h4 align="center"></h4> 
 <p> <h2> 😁 Curiosidade: </h2> no desenvolvimento eu gosto de deixar essas cores com as tonalidade bem diferentes para ir 
-vendo as alterações detalhe por detalhe (em especial ness projeto que tem um tema mais dark, modo mais escuro desde o inicio do desenvolvimento, que foi junto com a mayara e a Fer)</p>
+vendo as alterações detalhe por detalhe (em especial ness projeto que tem um tema mais dark, modo mais escuro desde o inicio do desenvolvimento, que foi junto com o guilherme, mayara e a Fer)</p>
 <div align="center">
 <img src="https://github.com/Gustavocaris/Portfolio/assets/149839159/db5fe183-7a0c-4d2a-8715-f91002df9f4b" width="400px" />
 </div>
